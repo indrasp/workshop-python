@@ -9,3 +9,4 @@ Instalasi dan Penggunaan Interpreter Python
    b. String
    c. List
    
+Isi Dari direktori src minggu-01 adalah hasil dari mode interaktif yang dijalankan pada terminal linux
